@@ -112,4 +112,4 @@ jobs:
         body: "a lightweight, multi-platform, multi-architecture exploit hook framework"
         artifacts: "build/dobby-macos-all.tar.gz,build/dobby-iphoneos-all.tar.gz"
         allowUpdates: true
-        replacesArtifacts: true
+        replacesArtifacts: false
